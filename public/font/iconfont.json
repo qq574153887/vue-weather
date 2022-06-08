@@ -1,0 +1,23 @@
+{
+  "id": "3454929",
+  "name": "vue天气",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12195847",
+      "name": "sunrise",
+      "font_class": "sunrise",
+      "unicode": "eced",
+      "unicode_decimal": 60653
+    },
+    {
+      "icon_id": "12195851",
+      "name": "sunset",
+      "font_class": "sunset",
+      "unicode": "ecee",
+      "unicode_decimal": 60654
+    }
+  ]
+}
